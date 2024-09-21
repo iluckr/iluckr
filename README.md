@@ -1,5 +1,5 @@
 <div align="center">
-  <code>print('Hi! I am Lucas - Welcome to my github 😉')</code>
+  <code>console.log('Hi! I am Lucas - Welcome to my github 😉');</code>
   <hr>
   
   <p>
